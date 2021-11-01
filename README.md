@@ -2,8 +2,8 @@
 
 # Zie hier mijn veranderingen
 
-![Voor de aanpassingen]("Before.png")
-![Na de aanpassingen]("After.png")
+![Voor de aanpassingen](Before.png)
+![Na de aanpassingen](After.png)
 
 ### Ik heb eerst dit gedaan: document.body.style.bakground = "yellow".
 ### Ik heb daarna dit gedaan: document.body.style.color = "orange".
