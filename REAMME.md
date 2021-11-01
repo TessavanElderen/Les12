@@ -2,4 +2,4 @@
 
 # Zie hier mijn veranderingen
 
-![Voor de aanpassingen](Index Sceenshoot.png)
+![Voor de aanpassingen](IndexSceenshoot.png)
